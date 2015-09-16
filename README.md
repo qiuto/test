@@ -21,3 +21,5 @@ public static void main(){
 <small>文本内容</small>				
 
 ![流程](https://github.com/qiuto/test/blob/master/process.jpg)
+![这个是图片](http://i.imgur.com/pkKh3dV.jpg)
+
